@@ -10,3 +10,8 @@ router.use('/tags', tagRoutes);
 
 module.exports = router;
 
+router.get('/', (req, res) => {
+  res.send('Welcome to E-commerce');
+});
+
+
