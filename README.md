@@ -11,13 +11,13 @@ Data types are products, categories, and tags which allow for CRUD operations us
 - [License](#license)
 - [Contact](#contact)
 ## About
-this project is used to keep inventory of products sold on an eccomerce website.
+this project is used to keep inventory of products sold on an e-commerce website.
 ## Installation
 first run npm install then update your mysql credentials in connection.js
 ## Usage
 clone from github. first run npm run seed then run node server.js
 ## Features
-the user can keep track of the types of products, categories of products, delete and add prducts
+the user can keep track of the types of products, categories of products, delete and add products
 ## Contributing
 email the developer
 ## License
