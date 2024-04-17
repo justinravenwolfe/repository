@@ -25,6 +25,5 @@ MIT
 ## Contact
 - **Developer:** [Justin Ramirez and Alliyah Steele ]
 - **Email:** [justinravenwolfe@gmail.com]
-Links
-walkthrough link: https://drive.google.com/file/d/10SvvLQ19F8h4IG7gHvVnT4Ug6M8lpiym/view?usp=sharing
+walkthrough link: https://drive.google.com/file/d/1aQHnXc7O4BgxHewNRJH55M2RUoJL1bPm/view?usp=sharing
 File Link: https://github.com/justinravenwolfe/repository
